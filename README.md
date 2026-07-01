@@ -2,6 +2,8 @@
 
 An analysis of how rental affordability for 2-bedroom flats changed across Queensland postcodes between the 2016 and 2021 Censuses.
 
+**[View the interactive map](https://amrit-ds.github.io/queensland-rental-affordability/qld_affordability_map.html)**
+
 ## Key Finding
 
 Median rental affordability across well-supported Queensland postcodes slightly improved from 21.7% in 2016 to 20.8% in 2021, as household income growth outpaced rental increases. The change was geographically uneven: affordability improved mainly across Brisbane and its surrounds, while it worsened on the Gold Coast, Sunshine Coast, and regional coastal centres such as Cairns, Mackay and Gladstone, consistent with pandemic-era population movement out of the capital toward the coast. Of the 124 well-supported postcodes, 67 improved and 54 worsened.
